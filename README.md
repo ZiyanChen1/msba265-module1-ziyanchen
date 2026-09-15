@@ -1,8 +1,11 @@
 # MSBA 265 – Foundational Module 1: EDA, Data Dictionary & Outlier Pipeline
 
 **Author:** Ziyan Chen
+
 **Course:** MSBA 265 – Business Analytics Topics (Fall 2026)
+
 **Instructor:** Shyla Solis
+
 **Dataset:** French Motor Third-Party Liability Claims – `freMTPL2freq` (OpenML ID 41214)
 
 This repository contains the full, reproducible workflow for Module 1: programmatic data
