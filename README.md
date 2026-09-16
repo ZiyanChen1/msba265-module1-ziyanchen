@@ -315,4 +315,4 @@ After completing Steps 1–7, confirm that every file below exists:
 
 ## 8. Peer Reproduction Verification
 
-As required by the assignment, a classmate cloned this repository on their own computer and reproduced every output listed in Section 5 by following this README alone, without help from the author. Their written confirmation is in `PEER_VERIFICATION.md` in the repository root.
+The confirmation is in `PEER_VERIFICATION.md` in the repository root.
