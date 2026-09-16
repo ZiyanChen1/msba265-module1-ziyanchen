@@ -37,7 +37,7 @@ The results I obtained match the expected values documented in the README.
 
 [Write "None" if everything ran on the first attempt. Otherwise, briefly describe any errors and confirm they were fixed by the author before this final verification.]
 
----
+None.
 
 **Verifier:** [Anh Ngo]
 **Email:** [h_ngo13@u.pacific.edu]
