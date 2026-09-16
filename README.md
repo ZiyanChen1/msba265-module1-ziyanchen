@@ -37,7 +37,7 @@ The project covers:
 msba265-module1-ziyanchen/
 ├── .gitignore                          # Excludes venv/, __pycache__/, .ipynb_checkpoints/
 ├── README.md                           # This file: setup and step-by-step execution guide
-├── PEER_VERIFICATION.md                # Classmate's statement of independent reproduction
+├── assignment-validation.pdf                # Classmate's statement of independent reproduction
 ├── requirements.txt                    # Python dependencies
 ├── Module1_Homework_Report.pdf         # Final compiled assignment report
 │
@@ -315,4 +315,4 @@ After completing Steps 1–7, confirm that every file below exists:
 
 ## 8. Peer Reproduction Verification
 
-The confirmation is in `PEER_VERIFICATION.md` in the repository root.
+The confirmation is in `assignment-validation.pdf` in the repository root.
